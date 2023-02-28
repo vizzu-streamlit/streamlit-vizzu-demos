@@ -259,3 +259,4 @@ else:
     chart_type = col3.radio("Chart type", ["Column", "Stream"], key="chart_type", disabled=True, horizontal=True)
 
 
+
